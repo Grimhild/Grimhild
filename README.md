@@ -1,10 +1,7 @@
-- 👋 Hi, I’m @Grimhild
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+Selamlar! 
 
-<!---
-Grimhild/Grimhild is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Ben Ufuk POLAT 
+
+- Çanakkale onsekiz mart üniversitesinde Lisansımı Bilgisayar ve öğretim teknolojileri eğitimi bölümünde yaptıktan sonra tekrar aynı üniversitede yüksek lisansımı bilgisayar ve öğretim teknoloji eğitimi üzerine yapmaya devam etmekteyim
+
+- Bu sıralar swift öğrenmeye uğraşıyorum kendime vakit ayıra bildikçe sizde yaptığım örnek uygulamaları ve çalışmaları sürekli olarak buraya yükleyeceğim eğer sizde benle bişeyler paylaşmak ve birlikte bişeyler geliştirmek isterseniz iletişim kurmaktan kaçınmayın.
